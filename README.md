@@ -10,3 +10,5 @@ The script outputs the ticker symbol, the yearly change from opening price, the 
 
 Screenshots are included of the excel pages that have had the script run. 
 
+
+
